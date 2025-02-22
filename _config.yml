@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: WikiTest
+description: A starter template for a Jeykll site hosting SiliPedia
 theme: just-the-docs
 
-url: https://silipedia.github.io
+url: https://danielthurmond.github.io/SiliPedia
+
+search_enabled: true #enable built-in searchbar for finding wiki pages
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/danielthurmond/SiliPedia
