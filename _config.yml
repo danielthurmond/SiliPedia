@@ -1,5 +1,5 @@
-title: WikiTest
-description: A starter template for a Jeykll site hosting SiliPedia
+title: SiliPedia
+description: Main Landing Site For SiliPedia, A Knowledge Sharing Website By Daniel Thurmond
 theme: just-the-docs
 
 url: https://danielthurmond.github.io/SiliPedia
@@ -7,4 +7,52 @@ url: https://danielthurmond.github.io/SiliPedia
 search_enabled: true #enable built-in searchbar for finding wiki pages
 
 aux_links:
-  Template Repository: https://github.com/danielthurmond/SiliPedia
+  About The Author: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+footer_content: "THISISTHEFOOTER"  # Leave it empty to remove the footer
+
+logo: "/assets/images/wafer.jpg"
+
+favicon_ico: "/assets/images/favicon.ico"
+
+# Enable or disable heading anchors
+heading_anchors: false
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+
+# External navigation links
+nav_external_links:
+  - title: Just the Docs on GitHub
+    url: https://github.com/just-the-docs/just-the-docs
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: 'Copyright &copy; 2025 Daniel Thurmond.'
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: nil
+
+
+#about, home, page, and post are the four main styles included with the theme. Home is the "Default" thats set on my side rn. look into "about" for an about the author. Look into "page" for each page.
