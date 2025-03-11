@@ -1,5 +1,5 @@
 ---
-title: Silicon Dominance
+title: Silicon Properties
 layout: default
 permalink: /SiliPedia/topics/silicon_fundamentals/silicon_properties/
 ---
