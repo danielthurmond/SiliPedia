@@ -13,14 +13,7 @@ Whether you're a beginner or an experienced engineer, **feel free to explore**. 
 # **Explore Semiconductor Topics Below:**
 Each section covers a major phase in the **chip design and manufacturing process**.
 
-<div class="process-grid">
-  {% for topic in data.silicon_topics %}
-    <div class="process-card">
-      <a href="{{ topic.link }}">
-        <img src="{{ topic.image }}" alt="{{ topic.name }}">
-        <h3>{{ topic.name }}</h3>
-        <p>{{ topic.description }}</p>
-      </a>
-    </div>
-  {% endfor %}
-</div>
+### **🔗 Quick Link to Silicon Fundamentals**
+➡️ **[Silicon History, Properties, and Fundamentals](/SiliPedia/topics/silicon_fundamentals/)**
+
+---

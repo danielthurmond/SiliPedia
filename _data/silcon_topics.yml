@@ -1,0 +1,24 @@
+- name: Silicon History, Properties, and Fundamentals
+  link: /SiliPedia/topics/silicon_fundamentals/
+  image: /assets/silicon_fundamentals.png
+  description: Learn about the history and properties of silicon.
+
+- name: Circuit Design and VLSI
+  link: /SiliPedia/topics/circuit_design/
+  image: /assets/circuit_design.png
+  description: Learn about transistor-level design and RTL concepts.
+
+- name: Foundry and Fabrication
+  link: /SiliPedia/topics/foundry_fabrication/
+  image: /assets/fabrication.png
+  description: The semiconductor manufacturing process from wafer to chip.
+
+- name: Packaging
+  link: /SiliPedia/topics/packaging/
+  image: /assets/packaging.png
+  description: Explore chip packaging, wire bonding, and thermal management.
+
+- name: Silicon Industries and Applications
+  link: /SiliPedia/topics/silicon_industry/
+  image: /assets/silicon_industry.png
+  description: How semiconductors impac
