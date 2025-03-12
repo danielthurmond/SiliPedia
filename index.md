@@ -13,7 +13,7 @@ Whether you're a beginner or an experienced engineer, **feel free to explore**. 
 # **Explore Semiconductor Topics Below:**
 Each section covers a major phase in the **chip design and manufacturing process**.
 
-### **🔗 Quick Link to Silicon Fundamentals**
-➡️ **[Silicon History, Properties, and Fundamentals](/SiliPedia/topics/silicon_fundamentals/)**
+### **Quick links to main pages**
+**[Silicon History, Properties, and Fundamentals](/SiliPedia/topics/silicon_fundamentals/)**
 
 ---
