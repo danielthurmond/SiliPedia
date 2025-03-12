@@ -1,7 +1,7 @@
 ---
 title: Silicon History, Properties, and Fundamentals
 layout: default
-permalink: /SiliPedia/topics/silicon_fundamentals/
+permalink: /topics/silicon_fundamentals.html
 ---
 
 # Silicon History, Properties, and Fundamentals
