@@ -14,6 +14,6 @@ Whether you're a beginner or an experienced engineer, **feel free to explore**. 
 Each section covers a major phase in the **chip design and manufacturing process**.
 
 ### **Quick links to main pages**
-[Go to Silicon Fundamentals](/SiliPedia/topics/silicon_fundamentals/)
+[Go to Silicon Fundamentals]({{ "/topics/silicon_fundamentals/" | relative_url }})
 
 ---
