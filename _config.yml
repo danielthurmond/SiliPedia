@@ -1,8 +1,9 @@
 title: SiliPedia
 description: Main Landing Site For SiliPedia, A Knowledge Sharing Website By Daniel Thurmond
 theme: just-the-docs
-
-url: https://danielthurmond.github.io/SiliPedia
+#permalink: pretty
+baseurl: "/SiliPedia"
+url: "https://danielthurmond.github.io"
 
 search_enabled: true #enable built-in searchbar for finding wiki pages
 
